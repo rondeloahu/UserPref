@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+a{
+    cursor: pointer;
+}
+.base-user-pref,.email{
+    width: 50%;
+    background-color: rgb(250, 250, 250);
+}
+.col-inp{
+    width: 140px;
+}
+.age{
+    width: 20%;
+}
+.age-span{
+    font-size: 1.3em;
+}
+.user-name{
+    width: 50%;
+}
+.forcast-user{
+    color: rgba(218, 165, 32, 0.673);
+    border: goldenrod solid 1px;
+    border-radius: 20px;
+}
